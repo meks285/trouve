@@ -1,0 +1,17 @@
+.map {
+  height: 100%;
+}
+ion-content{ 
+    font-family: Assistant !important;
+    font-size:1.1em;
+}
+.btn-share-location {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 40px;
+  width: 85%;
+  height: 70px;
+  text-transform: capitalize;
+  z-index: 20;
+}

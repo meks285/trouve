@@ -1,5 +1,7 @@
 {
   "name": "trouve",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

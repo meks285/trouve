@@ -10,6 +10,7 @@
  */
 
 /* Core CSS required for Ionic components to work properly */
+@import 'font-Assistant.css';
 @import "~@ionic/angular/css/core.css";
 
 /* Basic CSS for apps built with Ionic */
@@ -24,3 +25,19 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+.my-custom-class {
+    --background: #7ec4cc;
+    --spinner-color: #fff;
+    color: #fff;
+  }
+  .my-custom-alert {
+    --background:  rgba(3, 172, 240, 0);
+    --spinner-color: #fff;
+    color: rgb(0, 0, 0);
+    font-family: 'Assistant', sans-serif !important;
+    button.alert-button.exit-button{
+      color: #fff;
+      font-size: large;
+      background-color: #00A7BB;
+    }
+  }

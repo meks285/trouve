@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "trouve",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

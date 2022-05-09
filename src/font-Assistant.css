@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 300;
+  src: url(assets/Assistant/Assistant-normal-300.woff) format('woff'), url(assets/Assistant/Assistant-normal-300.woff2) format('woff2'), url(assets/Assistant/Assistant-normal-300.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/Assistant/Assistant-normal-400.eot);
+  src: local('Assistant'), url(assets/Assistant/Assistant-normal-400.woff) format('woff'), url(assets/Assistant/Assistant-normal-400.eot?#iefix) format('embedded-opentype'), url(assets/Assistant/Assistant-normal-400.woff2) format('woff2'), url(assets/Assistant/Assistant-normal-400.ttf) format('truetype'), url(assets/Assistant/Assistant-normal-400.svg#Assistant) format('svg');
+}
+
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 700;
+  src: url(assets/Assistant/Assistant-normal-700.woff) format('woff'), url(assets/Assistant/Assistant-normal-700.woff2) format('woff2'), url(assets/Assistant/Assistant-normal-700.ttf) format('truetype');
+}
+
